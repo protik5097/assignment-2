@@ -54,6 +54,11 @@ body {
     font-size: 15px;
 }
 
+#color {
+    color: black;
+    background-color: indianred;
+}
+
 .flex {
     display: flex;
 }
